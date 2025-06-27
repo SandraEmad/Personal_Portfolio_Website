@@ -1,41 +1,41 @@
-BreezyCV - Personal Portfolio Website
+# BreezyCV - Personal Portfolio Website
 BreezyCV is a responsive personal portfolio website template designed to showcase a web designer's profile, resume, portfolio, and blog in a clean and modern layout.
 
-🎯 Features
+## 🎯 Features
 Elegant sidebar navigation using Font Awesome icons
 
 Responsive layout with sections for:
 
-    Home
+- Home
     
-    About Me
+- About Me
     
-    Resume
+- Resume
     
-    Portfolio
+- Portfolio
     
-    Blog
+- Blog
+
+- Contact
     
-    Contact
+- Social media integration (LinkedIn, Facebook, Twitter)
     
-    Social media integration (LinkedIn, Facebook, Twitter)
+- Blog section with images and categories
     
-    Blog section with images and categories
+- Downloadable CV button
     
-    Downloadable CV button
+- Fully built using HTML and CSS
     
-    Fully built using HTML and CSS
+- Uses external icon libraries:
     
-    Uses external icon libraries:
+- Font Awesome
     
-    Font Awesome
+- Boxicons
     
-    Boxicons
-    
-    Remix Icons
-📚 Purpose
+- Remix Icons
+# 📚 Purpose
 This is a front-end UI project built for portfolio presentation and practice purposes only. It does not include dynamic features or backend functionality.
 
-🔒 License
+# 🔒 License
 This project is for educational and personal portfolio use only.
 No part of this should be used commercially unless properly modified and credited.
